@@ -20,10 +20,7 @@ void main ()
  else if (( av >=0&&av<=47)||(av>=58 && av>=64)||(av>=91&&av<=96)||(av>=123&&av<=127)){
    printf("%c special character");
  }
-else
- {
-     printf("shivdev chutiya hai");
- }
+
 
 
     return 0;
